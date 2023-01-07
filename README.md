@@ -20,10 +20,10 @@
 
 Pas hapjes se aplikacionit do te shfaqet faqja e transaksioneve ne te cilen mund te shohim shumen e parave qe kemi, shumen e harxhimeve si dhe bilancin aktual. Prej ketij ekrani mund te shtoni transaksione te reja duke e shtypur butonin "Shto tranzaksione", pas se ciles hapet faqja per shtimin e transaksioneve. Po ashtu nga kjo faqe mund te ndryshojme nje transaksion duke shtypur mbi transaksionin qe deshirojme dhe duke i ndryshuar informatat e saja. Se fundmi nese nje transaksion nuk na duhet atehere munt ta rreshqasim ate ne te djathte (swipe right) me c'rast fshihet transaksioni.
 
-//https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
+
 Kjo eshte faqja e transaksioneve            |  Ketu shtojme nje transaksion| Ketu ndryshojme nje transaksion ekzistues
 :-------------------------:|:-------------------------:|:-------------------------:
-![1 - Copy](https://github.com/spahiush/Kursehu-app/1faqja-e-transaksioneve.png?raw=true)  |  ![2](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/2shto-transaksion.png?token=GHSAT0AAAAAAB5FVOQU2KHU5QN3UKIZD4JWY5ZPFBQ) | ![3](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/3edito-transaksion.png?token=GHSAT0AAAAAAB5FVOQV7BD5QVHJ3EKNZBOEY5ZPF2Q)
+![1 - Copy](1faqja-e-transaksioneve.png)  |  ![2](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/2shto-transaksion.png?token=GHSAT0AAAAAAB5FVOQU2KHU5QN3UKIZD4JWY5ZPFBQ) | ![3](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/3edito-transaksion.png?token=GHSAT0AAAAAAB5FVOQV7BD5QVHJ3EKNZBOEY5ZPF2Q)
 
 ---
 ## Kode me rendesi
