@@ -23,7 +23,7 @@ Pas hapjes se aplikacionit do te shfaqet faqja e transaksioneve ne te cilen mund
 
 Kjo eshte faqja e transaksioneve            |  Ketu shtojme nje transaksion| Ketu ndryshojme nje transaksion ekzistues
 :-------------------------:|:-------------------------:|:-------------------------:
-![1 - Copy](1faqja-e-transaksioneve.png)  |  ![2](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/2shto-transaksion.png?token=GHSAT0AAAAAAB5FVOQU2KHU5QN3UKIZD4JWY5ZPFBQ) | ![3](https://raw.githubusercontent.com/spahiush/Kursehu-app/master/3edito-transaksion.png?token=GHSAT0AAAAAAB5FVOQV7BD5QVHJ3EKNZBOEY5ZPF2Q)
+![1 - Copy](1faqja-e-transaksioneve.png)  |  ![2](2shto-transaksion.png) | ![3](3edito-transaksion.png)
 
 ---
 ## Kode me rendesi
